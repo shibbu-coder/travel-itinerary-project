@@ -134,18 +134,18 @@ export function Footer() {
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-gold mt-0.5" />
-                  <span className="text-gray">hello@wanderlustindia.com</span>
+                  <span className="text-gray">shibbumovies@gmail.com</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Phone className="w-5 h-5 text-gold mt-0.5" />
-                  <span className="text-gray">+91 98765 43210</span>
+                  <span className="text-gray">+91 7302101065</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-gold mt-0.5" />
                   <span className="text-gray">
-                    123 Travel Street, Bandra West
+                    purani Chungi 
                     <br />
-                    Mumbai, Maharashtra 400050
+                    Aligarh, Uttarpradesh 202002
                   </span>
                 </li>
               </ul>
